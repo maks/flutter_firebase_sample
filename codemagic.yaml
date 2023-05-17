@@ -9,10 +9,9 @@ workflows:
     triggering:
       events:
         - push
-        - pull_request
       branch_patterns: 
         - pattern: "*"
-          include: true
+          include: false
       cancel_previous_builds: true  
     scripts:
       - name: Set up local.properties
@@ -57,10 +56,9 @@ workflows:
     triggering:
       events:
         - push
-        - pull_request
       branch_patterns: 
         - pattern: "*"
-          include: true  
+          include: false  
     scripts:
       - name: Set up code signing settings on Xcode project
         script: |
