@@ -6,6 +6,7 @@ workflows:
       vars:
         PACKAGE_NAME: "com.manichord.flutter_firebase_sample"
       flutter: stable
+      java: 17.0.6
     triggering:
       events:
         - push
