@@ -27,7 +27,7 @@ workflows:
         script: |
           flutter test
         ignore_failure: true
-      - name: Build APK with Flutter
+      - name: Build AAB with Flutter
         script: |    
           flutter build appbundle --release
     artifacts:
