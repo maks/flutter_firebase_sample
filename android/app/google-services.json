@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:321266809329:android:bc180d5561cff5ba226c50",
         "android_client_info": {
-          "package_name": "com.example.flutter_fast_firestore"
+          "package_name": "com.manichord.flutter_fast_firestore"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "321266809329-r1u6s023jlrfg4j2c75l2d3m8h5rpgpn.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.flutterFastFirestore"
+                "bundle_id": "com.manichord.flutterFastFirestore"
               }
             }
           ]
@@ -45,7 +45,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:321266809329:android:c70cf84960d3e6d3226c50",
         "android_client_info": {
-          "package_name": "com.example.flutter_firebase_sample"
+          "package_name": "com.manichord.flutter_firebase_sample"
         }
       },
       "oauth_client": [
